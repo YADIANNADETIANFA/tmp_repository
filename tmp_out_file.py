@@ -7,3 +7,4 @@ if __name__ == '__main__':
     print('第一次push的内容')
     print('第二次push的内容')
     print('第三次push的内容')
+    print('第四次push的内容')
