@@ -7,3 +7,4 @@ if __name__ == '__main__':
     print('然后再push到远端仓库')
     print('目前，远端仓库的内容，是到了这里为止。')
     print('此处，是直接在github上进行的修改操作！')
+    print('第二次，直接在gitbu上操作')
