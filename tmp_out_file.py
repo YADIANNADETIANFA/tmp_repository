@@ -2,4 +2,4 @@ from pathlib import Path
 
 
 if __name__ == '__main__':
-    print('我先全删了，在本地修改')
+    print('2024-10-28，全部清空')
