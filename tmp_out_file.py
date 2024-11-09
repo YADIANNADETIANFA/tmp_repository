@@ -2,9 +2,4 @@ from pathlib import Path
 
 
 if __name__ == '__main__':
-    print('2024.11.9，全部初始化，准备学习PR')
-    print('main分支，基座，main的基座修改')
-    print('main分支，zk_test的基座修改')
-    print('main的二号搞人')
-    print('zk_test的第二次搞人')
-    print('所以，我现在只能通过在zk_test分支上先提交，然后再PR到main分支了吗？')
+    print('2024.11.9，全部清理掉，PR该做个了解了')
