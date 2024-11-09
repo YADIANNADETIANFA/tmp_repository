@@ -7,3 +7,4 @@ if __name__ == '__main__':
     print('main分支，zk_test的基座修改')
     print('main的二号搞人')
     print('zk_test的第二次搞人')
+    print('所以，我现在只能通过在zk_test分支上先提交，然后再PR到main分支了吗？')
